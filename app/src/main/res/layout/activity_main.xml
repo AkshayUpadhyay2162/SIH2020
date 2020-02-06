@@ -12,7 +12,7 @@
         android:id="@+id/imageView"
         android:layout_width="match_parent"
         android:layout_height="150dp"
-        android:src="@drawable/SIH3"
+        android:src="@drawable/sih3"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="60dp"
         />

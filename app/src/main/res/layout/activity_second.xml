@@ -7,6 +7,7 @@
     android:background="@drawable/bg2"
     tools:context=".SecondActivity">
     <TextView
+        android:id="@+id/tv111"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Steps to find turbidity:- First click three pictures, one of air, one of water and one of gray-card and then click on results button to get the result."
